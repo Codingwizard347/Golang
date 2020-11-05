@@ -5,7 +5,7 @@
 
 ## FILES
 
-- [Case Example File](/case_EX_file.go)
+- *[Case Example File](/case_EX_file.go)
 - [Finite Loop Example File](/finite_loop_EX_file.go)
 
 ## Steps you need to edit the files.
@@ -16,5 +16,5 @@
 - Upload the file
 - Run The Program
 
-### Made By Sanjay for class 7C of BVM GLobal Bollienini Hillside Senior Secondary School 
-### @ Chennai, Tamil Nadu, India.
+#### Made By Sanjay for class 7C of BVM GLobal Bollienini Hillside Senior Secondary School 
+#### @ Chennai, Tamil Nadu, India.
