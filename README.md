@@ -9,7 +9,8 @@
 - [Finite Loop Example File](/finite_loop_EX_file.go)
 
 ## Steps you need to edit the files.
->- Download the file which you wanted to edit.
+>- Click the file which you wanted to edit.
+>- You will be directed to a download dialouge box. Save the File
 >- Go to **[Online Go Compiler](https://www.onlinegdb.com/online_go_compiler#).**
 >- Click the Upload Button.
 >- Upload the file
