@@ -3,6 +3,11 @@
 
 - **You are allowed to download these files and edit them.**
 
+## FILES
+
+- [Case Example File](/case_EX_file.go)
+- [Finite Loop Example File](/finite_loop_EX_file.go)
+
 ## Steps you need to edit the files.
 >- Download the file which you wanted to edit.
 >- Go to **[Online Go Compiler](https://www.onlinegdb.com/online_go_compiler#).**
